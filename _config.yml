@@ -3,7 +3,7 @@ title:              Marcelo Alvarez
 bio:                'Full Stack Project Manager'
 description:        "Based in Miami, Florida"
 locale:             en_US
-baseurl: "/marceloalvarez.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcelolalvarez.github.io/" # the base hostname & protocol for your site
 
 # Comments
