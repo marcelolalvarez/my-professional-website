@@ -1,0 +1,17 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/experience/' %} active {% endif %}"><a href="{{ "/experience/" | absolute_url }}">Experience</a></li>
+  <li class="{% if page.url contains '/expertise/' %} active {% endif %}"><a href="{{ "/expertise/" | absolute_url }}">Expertise</a></li>
+    <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+</ul>
+
+<ul class="icons">
+  <!--<li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+  <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+  <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+  <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>-->
+
+  <li><a href="https://twitter.com/magentomaestros" class="icon fa-twitter" rel="nofollow" target="_blank"><span class="label">Twitter</span></a></li>
+  <!--<li><a href="https://linkedin.com/{{marceloalvarezpm}}" class="icon fa-linkedin" rel="nofollow"><span class="label">Linkedin</span></a></li>-->
+    <li><a href="https://linkedin.com/in/marceloalvarezpm" class="icon fa-linkedin" rel="nofollow" target="_blank"><span class="label">Linkedin</span></a></li>
+</ul>

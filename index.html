@@ -1,0 +1,111 @@
+---
+layout: null
+title: Marcelo Alvarez | Full Stack Project Manager
+description: Magento/Wordpress Technical Consultant | Miami, Florida | 305.815.5372
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            <h1>{{site.title}}</h1>
+						<!--<h2>Full Stack Project Manager</h2>-->
+						<p>I collaborate with ambitious brands and people.<br />
+						Let’s work on something great together.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Full Stack Project Manager</a></h2>
+
+									<p>A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.</p>
+								</header>
+								<a href="#" class="image main"><img src="{{ "/images/fullstack.png" | absolute_url }}" alt="" /></a>
+                <p>According to <a href="https://www.linkedin.com/pulse/full-stack-project-manager-darren-james-harkness/" target="_blank" rel="nofollow" style="text-decoration:none">Darren James Harkness</a> "a Full Stack Project Manager is a project manager that has a skill set allowing him to understand all aspects of the project or product they are directing development on. He is a highly technical project manager with a deep background in design and communication, and can critically look at the work being proposed as part of the project.</p>
+                <p>A Full Stack Project Manager is more than simply a technical project manager. He is involved in – and comfortable with – all aspects of the project, from development and deployment to design and communication, and has the experience and skill set to intelligently contribute to those discussions.
+								</p>
+								<p>
+									The Full Stack PM should be a strong advocate for both the client and the project team. He should be able to highlight technical challenges before the development team encounters them; likewise, he should be able to flag design issues before they reach the client, suggesting alternate strategies back to the design team. He should be able to effectively match clients’ needs to technical and design outcomes, and help his team to propose the most effective deliverables for those outcomes."
+								 </p>
+
+							</article>
+
+						<!-- Posts -->
+            <!--
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+-->
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">The Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
