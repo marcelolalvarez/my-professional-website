@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marcelo Alvarez | Full Stack Project Manager 
+title: Marcelo Alvarez | Full Stack Project Manager
 description: Magento/Wordpress Technical Consultant | Miami, Florida | 305.815.5372
 sitemap:
     priority: 0.7
@@ -18,7 +18,7 @@ sitemap:
 <dl>
   <dt>Deluxe - September 2019 - Now</dt>
   <dd>
-    <p>Technical Consultant</p>
+    <p>Magento Technical Consultant</p>
   </dd>
   <dt>Comodo - March 2019-August 2019</dt>
   <dd>
