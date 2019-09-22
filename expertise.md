@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Expertise
 
-<span class="image main"><img src="{{ "/images/do-more.jpg" | absolute_url }}" alt="Do More" />Photo by Carl Heyerdahl</span>
+<span class="image main"><img src="{{ "/images/do-more.jpg" | absolute_url }}" id="notonmobile" alt="Do More" />Photo by Carl Heyerdahl</span>
 
 <h3>Professional Competencies</h3>
 <!-- Expertise starts-->

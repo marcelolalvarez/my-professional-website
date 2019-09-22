@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Experience
 
-<span class="image main"><img src="{{ "/images/long-road.jpg" | absolute_url }}" alt="Long Road" />Photo by Andrew Ruiz</span>
+<span class="image main"><img src="{{ "/images/long-road.jpg" | absolute_url }}" id="notonmobile" alt="Long Road" />Photo by Andrew Ruiz</span>
 
 
 <h3>Employment</h3>
