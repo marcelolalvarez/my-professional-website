@@ -18,7 +18,7 @@ sitemap:
 <dl>
 <dt>HBO Latin America - September 2019 - Now</dt>
 <dd>
-  <p>Project Manager</p>
+  <p>Technical Project Manager</p>
 </dd>
   <dt>Deluxe - September 2019 - Now</dt>
   <dd>
