@@ -64,7 +64,7 @@
 						<p></p>
 <h2 id="expertise">Expertise</h2>
 
-<p><span class="image main"><img src="/images/do-more.jpg" alt="Do More">Photo by Carl Heyerdahl</span></p>
+<p><span class="image main"><img src="/images/do-more.jpg" id="notonmobile" alt="Do More"></span></p>
 
 <h3>Professional Competencies</h3>
 <!-- Expertise starts-->
@@ -148,7 +148,7 @@
       <ul class="actions">
         <li><input type="submit" value="Send Message"></li>
       </ul>
-      <input type="hidden" name="slap_redirect" value="/thank-you"> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
+      <input type="hidden" name="slap_redirect" value="https://marceloalvarez.me/thank-you"> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
     </form>
   </section>
   <section class="split contact">
@@ -194,7 +194,7 @@
 <script src="/assets/js/util.js"></script>
 <script src="/assets/js/main.js"></script>
 
-			<script>
+			<!--<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -203,7 +203,13 @@
   ga('create', 'UA-76823122-1', 'auto');
   ga('send', 'pageview');
 
-</script>
+</script>-->
+
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+   <script>
+   var galite = galite || {};
+   galite.UA = 'UA-76823122-1'; // Insert your tracking code here
+   </script>
 
 
 	</body>
