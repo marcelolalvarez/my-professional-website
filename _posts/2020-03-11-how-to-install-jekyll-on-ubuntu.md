@@ -14,14 +14,14 @@ I also want to mention that even though Jekyll is marketed as a blogging platfor
 
 Run the following commands in Ubuntu to have Jekyll up and running in your system.
 
-1.sudo apt-get update
-2.sudo apt-get install ruby
-3.sudo apt-get install ruby-dev
-4.sudo gem install bundler
-5.sudo gem install jekyll
-6.CD to the project directory
-7.bundle update
-8.bundle install
-9.bundle exec jekyll server (this will run the default site in your localhost. So fire your browser and go to http://localhost:4000)
+1. sudo apt-get update
+2. sudo apt-get install ruby
+3. sudo apt-get install ruby-dev
+4. sudo gem install bundler
+5. sudo gem install jekyll
+6. CD to the project directory
+7. bundle update
+8. bundle install
+9. bundle exec jekyll server (this will run the default site in your localhost. So fire your browser and go to http://localhost:4000)
 
 That's it. You should be able to see a basic Jekyll site in your browser.
