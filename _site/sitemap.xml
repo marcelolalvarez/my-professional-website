@@ -2,7 +2,16 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://marceloalvarez.me/blog/five-reasons-why-your-ecommerce-site-is-so-important-for-your-business/</loc>
+      <loc>http://localhost:4000/blog/how-to-install-jekyll-on-ubuntu/</loc>
+      
+        <lastmod>2020-03-11T00:00:00-04:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/five-reasons-why-your-ecommerce-site-is-so-important-for-your-business/</loc>
       
         <lastmod>2019-09-15T00:00:00-04:00</lastmod>
       
@@ -11,7 +20,7 @@
     </url>
   
     <url>
-      <loc>https://marceloalvarez.me/blog/how-real-estate-idx-integration-systems-can-boost-a-realtors-business/</loc>
+      <loc>http://localhost:4000/blog/how-real-estate-idx-integration-systems-can-boost-a-realtors-business/</loc>
       
         <lastmod>2018-04-15T00:00:00-04:00</lastmod>
       
@@ -20,7 +29,7 @@
     </url>
   
     <url>
-      <loc>https://marceloalvarez.me/blog/how-to-use-twitter-to-sell-homes-in-just-15-minutes-a-day/</loc>
+      <loc>http://localhost:4000/blog/how-to-use-twitter-to-sell-homes-in-just-15-minutes-a-day/</loc>
       
         <lastmod>2017-08-25T00:00:00-04:00</lastmod>
       
@@ -30,7 +39,7 @@
   
   
     <url>
-      <loc>https://marceloalvarez.me/about/</loc>
+      <loc>http://localhost:4000/about/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -40,7 +49,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/blog/</loc>
+      <loc>http://localhost:4000/blog/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -50,7 +59,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/elements/</loc>
+      <loc>http://localhost:4000/elements/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -60,7 +69,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/experience/</loc>
+      <loc>http://localhost:4000/experience/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -70,7 +79,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/expertise/</loc>
+      <loc>http://localhost:4000/expertise/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -80,7 +89,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/</loc>
+      <loc>http://localhost:4000/</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -90,7 +99,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/assets/css/main.css</loc>
+      <loc>http://localhost:4000/assets/css/main.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -100,7 +109,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/assets/css/noscript.css</loc>
+      <loc>http://localhost:4000/assets/css/noscript.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -110,7 +119,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/sitemap.xml</loc>
+      <loc>http://localhost:4000/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -120,7 +129,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/thank-you/</loc>
+      <loc>http://localhost:4000/thank-you/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -130,7 +139,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/feed.xml</loc>
+      <loc>http://localhost:4000/robots.txt</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -140,7 +149,7 @@
      </url>
   
     <url>
-      <loc>https://marceloalvarez.me/feed.xslt.xml</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
