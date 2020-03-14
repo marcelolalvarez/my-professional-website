@@ -5,7 +5,9 @@ date:   2020-03-11
 excerpt: "Jekyll is a very simple, blog-aware, static site generator that is perfect for personal, project, or organization sites"
 image: "/images/Jekyll.png"
 ---
-I came across Jekyll a few months ago. My site was originally done in Wordpress and then I re did it in html5. Having the site as a basic html site was good enough for me. At some point I had thought about writing some of my daily work experiences and wanted a more dynamic site but lightweight at the same time. And this is when I found Jekyll.
+I came across [Jekyll][f099c175] a few months ago. My site was originally done in Wordpress and then I re did it in html5. Having the site as a basic html site was good enough for me. At some point I had thought about writing some of my daily work experiences and wanted a more dynamic site but lightweight at the same time. And this is when I found Jekyll.
+
+  [f099c175]: https://jekyllrb.com "Jekyll"
 
 What is Jekyll?
 Jekyll is a static site generator, which is part of Ruby (the programming language). This guide will help you get started. In this post we will just discuss how to install it in Ubuntu even though the installation in MACOS is very similar. I will create another post later that will focus on how to build a basic Website.
