@@ -4,7 +4,7 @@ bio:                'Full Stack Project Manager'
 description:        "Based in Miami, Florida"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marceloalvarez.me" # the base hostname & protocol for your site
+url: "https://www.marceloalvarez.dev" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
