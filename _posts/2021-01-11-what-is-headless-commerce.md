@@ -57,9 +57,9 @@ As you can see, headless commerce is one of the best methods you can use in orde
 
 * [Walmart](https://www.walmart.com "Walmart")
 * [Amazon](https://www.amazon.com "Amazon")
-* Best Buy
-* J-Crew
-* Michael Kors
+* [Best Buy](https://www.bestbuy.com "Best Buy")
+* [J. Crew](https://www.jcrew.com "J.Crew")
+* [Michael Kors](https://www.michaelkors.com "Michael Kors")
 * Ebay
 * Eurail
 * Icelandair
