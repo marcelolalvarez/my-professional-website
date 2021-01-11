@@ -60,13 +60,13 @@ As you can see, headless commerce is one of the best methods you can use in orde
 * [Best Buy](https://www.bestbuy.com "Best Buy")
 * [J. Crew](https://www.jcrew.com "J.Crew")
 * [Michael Kors](https://www.michaelkors.com "Michael Kors")
-* Ebay
-* Eurail
-* Icelandair
-* Princess Cruises
-* Coca Cola
-* Etsy
-* Uber
-* Spotify
-* Netflix
+* [Ebay](https://www.ebay.com "Ebay")
+* [Eurail](https://www.eurail.com "Eurail")
+* [Icelandair](https://www.icelandair.com "Icelandair")
+* [Princess Cruises](https://www.princess.com "Princess Cruises")
+* [Coca Cola](https://www.coca-cola.com "Coca Cola")
+* [Etsy](https://www.etsy.com "Etsy")
+* [Uber](https://www.uber.com "Uber")
+* [Spotify](https://www.spotify.com "Spotify")
+* [Netflix](https://www.netflix.com "Netflix")
 * [Zalando](https://www.zalando.co.uk "Zalando")
