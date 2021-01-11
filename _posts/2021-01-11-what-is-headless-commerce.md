@@ -1,10 +1,9 @@
 ---
 layout: ''
 title: What is Headless Commerce?
-date: 2021-01-11 05:00:00 +0000
-excerpt: Since the Covid pandemic brought a lot of challenges to the business world,
-  one of the main issues we had to tackle were things like engaging customers through
-  new mediums, extending a business online, while also bringing more flexibility.
+date: 2021-01-08 05:00:00 +0000
+excerpt: 'At its core, headless commerce separates the backend and frontend of an
+  ecommerce application. '
 image: "/uploads/store-4156934_640-2.png"
 
 ---
@@ -14,7 +13,7 @@ Since the Covid pandemic brought a lot of challenges to the business world, one 
 
 ## What is headless commerce?
 
-At its core, headless commerce separates the backend and frontend of an ecommerce application. The reason why this matter is because once it uses the headless method, a retailer can provide a better user experience and rich content via the frontend without over-encumbering the backend with unnecessary features.
+At its core, headless commerce separates the backend and frontend of an ecommerce application. The reason why this matters is because once it uses the headless method, a retailer can provide a better user experience and rich content via the frontend without over-encumbering the backend with unnecessary features.
 
 The added flexibility that comes from headless commerce can easily be adapted by every retailer in their own way. Some retailers can have brand-focused websites or content focused websites. The frontend and backend are de-coupled, and instead the headless method relies on API calls to acquire the information. What this does is it makes it easier for developers to fully adapt and customize websites the way they want. There’s no heavy reliance on code anymore, which can make a huge difference in a situation like this.
 
