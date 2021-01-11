@@ -52,3 +52,21 @@ Advantages:
 ## Conclusion
 
 As you can see, headless commerce is one of the best methods you can use in order to surpass your competitors and come up with creative solutions for customers. It’s an amazing way to expand your online business fast, by enhancing the customer experience while also developing new features and experimenting with ideas. Don’t hesitate and give headless e-commerce a try if you are interested in standing out as a company while delivering state of the art products and services!
+
+## Headless Commerce Websites
+
+* [Walmart](https://www.walmart.com "Walmart")
+* [Amazon](https://www.amazon.com "Amazon")
+* Best Buy
+* J-Crew
+* Michael Kors
+* Ebay
+* Eurail
+* Icelandair
+* Princess Cruises
+* Coca Cola
+* Etsy
+* Uber
+* Spotify
+* Netflix
+* [Zalando](https://www.zalando.co.uk "Zalando")
