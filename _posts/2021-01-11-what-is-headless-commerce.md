@@ -5,8 +5,6 @@ date: 2021-01-11 05:00:00 +0000
 excerpt: Since the Covid pandemic brought a lot of challenges to the business world,
   one of the main issues we had to tackle were things like engaging customers through
   new mediums, extending a business online, while also bringing more flexibility.
-  That’s what headless e-commerce managed to bring to the table, and in some cases,
-  it allowed businesses to grow and expand more than they imagined.
 image: "/uploads/store-4156934_640-2.png"
 
 ---
