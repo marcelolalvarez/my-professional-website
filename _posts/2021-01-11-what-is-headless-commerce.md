@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: What is Headless Commerce?
 date: 2021-01-08 05:00:00 +0000
 excerpt: 'At its core, headless commerce separates the backend and frontend of an
