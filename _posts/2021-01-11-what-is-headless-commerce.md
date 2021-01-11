@@ -19,7 +19,7 @@ The added flexibility that comes from headless commerce can easily be adapted by
 
 ## How does the headless commerce approach affect your customers?
 
-The great advantage that comes with headless commerce is the fact that every updated is instant. You don’t have to worry for the update to be adjusted to the website manually. If you make any frontend changes, all of them take place right away. Moreover, thanks to the de-coupling approach, developers tend to focus more on the visual approach and features, bringing in rich user interfaces and a better user experience as a whole. You can experiment more, which means to a more interesting, innovative and creative.
+The great advantage that comes with headless commerce is the fact that every update is instant. You don’t have to worry for the update to be adjusted to the website manually. If you make any frontend changes, all of them take place right away. Moreover, thanks to the de-coupling approach, developers tend to focus more on the visual approach and features, bringing in rich user interfaces and a better user experience as a whole. You can experiment more, which means to a more interesting, innovative and creative.
 
 ## How can you get started with headless commerce?
 
