@@ -17,3 +17,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/what-is-headless-commerce.md
