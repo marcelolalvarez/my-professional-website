@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Headless Commerce?
-date: 2021-01-08 05:00:00 +0000
+date: 2021-01-08T05:00:00.000+00:00
 excerpt: 'At its core, headless commerce separates the backend and frontend of an
   ecommerce application. '
 image: "/uploads/store-4156934_640-3.png"
@@ -29,25 +29,18 @@ With headless commerce you get a much better third-party integration, coding, to
 
 Advantages:
 
-· The frontend is only focused on content delivery
-
-· Every change takes place almost instantly
-
-· There’s more formatting and design flexibility
-
-· A cleaner interface that’s easier to expand
-
-· Less overhead
-
-· Cleaner architecture
+* The frontend is only focused on content delivery
+* Every change takes place almost instantly
+* There’s more formatting and design flexibility
+* A cleaner interface that’s easier to expand
+* Less overhead
+* Cleaner architecture
 
 ## Disadvantages
 
-· In some cases, you can lose platform functionality
-
-· You have to maintain 2 systems
-
-· The cost of ownership can increase
+* In some cases, you can lose platform functionality
+* You have to maintain 2 systems
+* The cost of ownership can increase
 
 ## Conclusion
 
