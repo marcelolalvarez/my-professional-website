@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Projects I have collaborated
+title: Projects I Have Managed
 date: 
 excerpt: ''
 image: ''
