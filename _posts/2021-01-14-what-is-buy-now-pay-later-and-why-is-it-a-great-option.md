@@ -31,10 +31,9 @@ Thanks to the buy now pay later solutions, customers are able to boost sales nat
 
 ## Best buy now, pay later providers
 
-* Affirm
-* Klarna
-* Afterpay
-* Zip Pay
-* Quad Pay
-* Sezzle
-* PayPal Credit
+* [Affirm](https://www.affirm.com "Affirm")
+* [Klarna](https://www.klarna.com/ "Klarna")
+* [Afterpay](https://www.afterpay.com/ "Afterpay")
+* [Zip Pay](https://zip.co/us "Zip Pay")
+* [Sezzle](https://sezzle.com "Sizzle")
+* [PayPal Credit](https://www.paypal.com/us/webapps/mpp/paypal-credit-signin "PayPal Credit")
