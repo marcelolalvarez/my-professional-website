@@ -4,6 +4,12 @@ title: Projects I Have Managed
 date: 
 excerpt: ''
 image: ''
-published: false
 
 ---
+## Websites
+
+## eCommerce Websites
+
+## Web Applications
+
+## Mobile Apps
