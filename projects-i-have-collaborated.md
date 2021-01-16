@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Projects I Have Managed
-date: 
+date: 2021-01-16 05:00:00 +0000
 excerpt: ''
 image: ''
 
