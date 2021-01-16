@@ -4,7 +4,7 @@ title: What is buy now pay later and why is it a great option?
 date: 2021-01-14 05:00:00 +0000
 excerpt: When you create an online store, it’s very important to provide your customers
   with as many payment options as possible
-image: "/uploads/buynowpaylater-2.png"
+image: "/uploads/buynowpaylater.png"
 
 ---
 When you create an online store, it’s very important to provide your customers with as many payment options as possible. Buy now pay later is a unique payment approach that, as the name says, allows customers to purchase a product in installments. That means they initiate the purchase, pay for one installment and receive the product. Not everyone is able to purchase some products, so having this type of financing without interest or a low amount of interest is a very good idea.
