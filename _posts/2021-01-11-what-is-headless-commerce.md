@@ -63,3 +63,5 @@ As you can see, headless commerce is one of the best methods you can use in orde
 * [Spotify](https://www.spotify.com "Spotify")
 * [Netflix](https://www.netflix.com "Netflix")
 * [Zalando](https://www.zalando.co.uk "Zalando")
+
+Image credit: [https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa](https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa "https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa")
