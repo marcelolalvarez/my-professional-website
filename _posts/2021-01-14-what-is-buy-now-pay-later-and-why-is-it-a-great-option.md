@@ -37,3 +37,5 @@ Thanks to the buy now pay later solutions, customers are able to boost sales nat
 * [Zip Pay](https://zip.co/us "Zip Pay")
 * [Sezzle](https://sezzle.com "Sizzle")
 * [PayPal Credit](https://www.paypal.com/us/webapps/mpp/paypal-credit-signin "PayPal Credit")
+
+Image credit: [https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa](https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa "https://c-leeson.medium.com/lets-talk-about-buy-now-pay-later-f5957ef46faa")
