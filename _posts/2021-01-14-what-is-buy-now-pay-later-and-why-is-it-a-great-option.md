@@ -29,7 +29,7 @@ The reason why that happens is because it makes it easier for a customer to acqu
 
 Thanks to the Buy Now Pay Later solutions, customers are able to boost sales naturally and reach a lot of success. It’s never easy to achieve that, but the truth is that with the right solutions and features embedded in the program, results can be extraordinary. It all comes down to using the Buy Now Pay Later features and ensure that customers gain access to the best products on the market. It’s a great opportunity for customers to purchase a product without shelling out a lot of money at once. Paying in installments is convenient, easier for most consumers, and it will soon become the future. The faster you start using this feature for your online store, the better!
 
-## Best Buy Now, Pay Later Providers
+## Best buy now, pay later providers
 
 * Affirm
 * Klarna
