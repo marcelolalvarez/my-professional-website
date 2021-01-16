@@ -4,7 +4,7 @@ title: What is Headless Commerce?
 date: 2021-01-08T05:00:00.000+00:00
 excerpt: 'At its core, headless commerce separates the backend and frontend of an
   ecommerce application. '
-image: "/uploads/store-4156934_640-3.png"
+image: "/uploads/headless_commerce.png"
 
 ---
 # What is Headless Commerce?
