@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Buy Now Pay Later?
-date: 2021-01-14 05:00:00 +0000
+date: 2020-11-19 05:00:00 +0000
 excerpt: When you create an online store, it’s very important to provide your customers
   with as many payment options as possible
 image: "/uploads/buynowpaylater.png"
