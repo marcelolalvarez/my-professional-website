@@ -12,11 +12,12 @@ image: ''
 * Nervous Waters
 * Abaco Lodge
 * Miami City Ballet
-* My Wifi Wiz
 * 770 Rent a Acar
 * Childrens Oncology Group
 * David Denies
 * Red Stag Patagonia
+* MHKA
+* Universal Dance Studios Miami
 
 ## eCommerce Websites
 
@@ -36,4 +37,11 @@ image: ''
 
 ## Web Applications
 
+* Nationwide Logistic Solutions
+* Meyda
+* MyWifiWiz
+* Enhanced Remote Data Entry Systems
+
 ## Mobile Apps
+
+* Universe of Faith
