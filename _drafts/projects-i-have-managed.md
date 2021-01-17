@@ -13,7 +13,6 @@ image: ''
 * Abaco Lodge
 * Miami City Ballet
 * My Wifi Wiz
-* Universe of Faith
 * 770 Rent a Acar
 * Childrens Oncology Group
 * David Denies
@@ -21,17 +20,19 @@ image: ''
 
 ## eCommerce Websites
 
-* Verizon Dominican Republic
-* Acemarks
-* Venettini
-* Abtbeads
-* GlobalBiosScience
-* RTS Tactical
-* Ambitec
-* Christian Books
-* Christian Sermons
-* Christian Music
-* Club La Nacion
+* Verizon Dominican Republic (Episerver)
+* Acemarks (Magento)
+* Venettini (Magento)
+* Abtbeads (Magento)
+* GlobalBiosScience (Magento)
+* RTS Tactical (Magento)
+* Ambitec (Magento)
+* Universe of Faith (Magento)
+* Christian Books (Magento)
+* Christian Sermons (Magento)
+* Christian Music (Magento)
+* Universe of Faith (Magento)
+* Club La Nacion (Magento)
 
 ## Web Applications
 
