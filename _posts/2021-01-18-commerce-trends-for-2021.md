@@ -2,7 +2,8 @@
 layout: post
 title: Retail Trends for 2021
 date: 2021-01-18 05:00:00 +0000
-excerpt: ''
+excerpt: 'The Coronavirus pandemic has changed how people are shopping for their desired
+  products. '
 image: "/uploads/ecommerce-trends-2021.png"
 
 ---
