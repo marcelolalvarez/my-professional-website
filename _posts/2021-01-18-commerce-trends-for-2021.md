@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Retail Trends for 2021?
-date: 2020-09-16 22:00:00 +0000
+date: 2021-01-16 23:00:00 +0000
 excerpt: 'The Coronavirus pandemic has changed how people are shopping for their desired
   products. '
 image: "/uploads/ecommerce-trends-2021.png"
