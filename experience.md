@@ -55,6 +55,15 @@ sitemap:
 * MyWifiWiz
 * Enhanced Remote Data Entry Systems
 
+### Applications
+
+* PeopleSoft Upgrade
+
 ### Mobile Apps
 
 * Universe of Faith
+
+### Infrastructure
+
+* Office 365 Migration for 1500+ accounts
+* Okta Applications Migration
